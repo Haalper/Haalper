@@ -21,7 +21,7 @@ Aqui você encontrará alguns dos meus projetos e contribuições.
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 - ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat-square&logo=angular&logoColor=white)
+
 
 ### Banco de Dados
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
